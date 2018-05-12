@@ -1,0 +1,49 @@
+_repo: Rembrandt_17215
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Hind, C. Lewis (Charles Lewis)
+    aliases:
+    - Hind, Charles Lewis
+    - Hind, C. L. (Charles Lewis)
+    - Hind, Lewis
+    birthdate: 1862
+    deathdate: 1927
+    gutenberg_agent_id: '7231'
+    url: http://www.gutenberg.org/2009/agents/7231
+  illustrator:
+    agent_name: Rembrandt Harmenszoon van Rijn
+    aliases:
+    - Rijn, Rembrandt Harmenszoon van
+    - Van Rijn, Rembrandt Harmenszoon
+    birthdate: 1606
+    deathdate: 1669
+    gutenberg_agent_id: '7232'
+    url: http://www.gutenberg.org/2009/agents/7232
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Menpes, Mortimer
+    alias: Menpes, Mortimer Luddington
+    birthdate: 1855
+    deathdate: 1938
+    gutenberg_agent_id: '7230'
+    url: http://www.gutenberg.org/2009/agents/7230
+    wikipedia: http://en.wikipedia.org/wiki/Mortimer_Menpes
+description: ''
+gutenberg_bookshelf: Art
+gutenberg_issued: '2005-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17215'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Rembrandt Harmenszoon van Rijn, 1606-1669'
+title: Rembrandt
+url: http://www.gutenberg.org/ebooks/17215
